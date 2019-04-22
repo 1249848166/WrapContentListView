@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WrapContentListView">
+        <attr name="rate" format="float"/>
+        <attr name="clamp" format="float"/>
+        <attr name="useFilter" format="boolean"/>
+        <attr name="sleep" format="integer"/>
+        <attr name="step" format="integer"/>
+    </declare-styleable>
+</resources>
